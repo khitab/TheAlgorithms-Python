@@ -9,6 +9,7 @@
   * [Newton Forward Interpolation](arithmetic_analysis/newton_forward_interpolation.py)
   * [Newton Method](arithmetic_analysis/newton_method.py)
   * [Newton Raphson](arithmetic_analysis/newton_raphson.py)
+  * [Newton Raphson New](arithmetic_analysis/newton_raphson_new.py)
   * [Secant Method](arithmetic_analysis/secant_method.py)
 
 ## Audio Filters
@@ -107,6 +108,7 @@
   * [Lempel Ziv](compression/lempel_ziv.py)
   * [Lempel Ziv Decompress](compression/lempel_ziv_decompress.py)
   * [Peak Signal To Noise Ratio](compression/peak_signal_to_noise_ratio.py)
+  * [Run Length Encoding](compression/run_length_encoding.py)
 
 ## Computer Vision
   * [Cnn Classification](computer_vision/cnn_classification.py)
@@ -446,6 +448,7 @@
   * [Scoring Functions](machine_learning/scoring_functions.py)
   * [Sequential Minimum Optimization](machine_learning/sequential_minimum_optimization.py)
   * [Similarity Search](machine_learning/similarity_search.py)
+  * [Support Vector Machines](machine_learning/support_vector_machines.py)
   * [Word Frequency Functions](machine_learning/word_frequency_functions.py)
 
 ## Maths
@@ -620,6 +623,7 @@
   * [Linear Congruential Generator](other/linear_congruential_generator.py)
   * [Lru Cache](other/lru_cache.py)
   * [Magicdiamondpattern](other/magicdiamondpattern.py)
+  * [Maximum Subarray](other/maximum_subarray.py)
   * [Nested Brackets](other/nested_brackets.py)
   * [Password Generator](other/password_generator.py)
   * [Scoring Algorithm](other/scoring_algorithm.py)
@@ -859,6 +863,8 @@
     * [Sol1](project_euler/problem_114/sol1.py)
   * Problem 115
     * [Sol1](project_euler/problem_115/sol1.py)
+  * Problem 116
+    * [Sol1](project_euler/problem_116/sol1.py)
   * Problem 119
     * [Sol1](project_euler/problem_119/sol1.py)
   * Problem 120
@@ -983,7 +989,7 @@
   * [Recursive Quick Sort](sorts/recursive_quick_sort.py)
   * [Selection Sort](sorts/selection_sort.py)
   * [Shell Sort](sorts/shell_sort.py)
-  * [Shrink Shell](sorts/shrink_shell.py)
+  * [Shrink Shell Sort](sorts/shrink_shell_sort.py)
   * [Slowsort](sorts/slowsort.py)
   * [Stooge Sort](sorts/stooge_sort.py)
   * [Strand Sort](sorts/strand_sort.py)
@@ -1005,6 +1011,7 @@
   * [Check Pangram](strings/check_pangram.py)
   * [Credit Card Validator](strings/credit_card_validator.py)
   * [Detecting English Programmatically](strings/detecting_english_programmatically.py)
+  * [Dna](strings/dna.py)
   * [Frequency Finder](strings/frequency_finder.py)
   * [Hamming Distance](strings/hamming_distance.py)
   * [Indian Phone Validator](strings/indian_phone_validator.py)
@@ -1049,6 +1056,7 @@
   * [Fetch Bbc News](web_programming/fetch_bbc_news.py)
   * [Fetch Github Info](web_programming/fetch_github_info.py)
   * [Fetch Jobs](web_programming/fetch_jobs.py)
+  * [Fetch Quotes](web_programming/fetch_quotes.py)
   * [Fetch Well Rx Price](web_programming/fetch_well_rx_price.py)
   * [Get Imdb Top 250 Movies Csv](web_programming/get_imdb_top_250_movies_csv.py)
   * [Get Imdbtop](web_programming/get_imdbtop.py)
